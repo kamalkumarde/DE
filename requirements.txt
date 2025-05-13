@@ -1,0 +1,14 @@
+apache-airflow 
+pandas 
+numpy 
+scipy 
+scikit-learn 
+matplotlib 
+seaborn 
+plotly 
+boto3 
+psycopg2-binary 
+sqlalchemy
+jupyterlab
+pendulum
+dbt
